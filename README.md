@@ -19,6 +19,7 @@ Please install the neccessary libraries before running our tool:
 Please following the link below to download the data and pretrained models of our paper. 
 
 - https://drive.google.com/drive/folders/1sMl2-LbVi3__56kMeS8YSUW7qaKrL2sQ?usp=sharing
+- https://zenodo.org/record/3965246#.XyEDVnUzY5k
 
 After downloading, simply copy the data and model folders to DeepJIT folder. 
 
